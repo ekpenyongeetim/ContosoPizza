@@ -30,4 +30,4 @@ C:\Users\Ekpenyong Etim\Desktop\CSE 325 .NET\ContosoPizza\obj\Debug\net8.0\refin
 C:\Users\Ekpenyong Etim\Desktop\CSE 325 .NET\ContosoPizza\obj\Debug\net8.0\ContosoPizza.pdb
 C:\Users\Ekpenyong Etim\Desktop\CSE 325 .NET\ContosoPizza\obj\Debug\net8.0\ContosoPizza.genruntimeconfig.cache
 C:\Users\Ekpenyong Etim\Desktop\CSE 325 .NET\ContosoPizza\obj\Debug\net8.0\ref\ContosoPizza.dll
-C:\Users\Ekpenyong Etim\Desktop\CSE 325 .NET\ContosoPizza\bin\Debug\net8.0\launchSettings.json
+C:\Users\Ekpenyong Etim\Desktop\CSE 325 .NET\ContosoPizza\obj\Debug\net8.0\ContosoPizza.sourcelink.json
